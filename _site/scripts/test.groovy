@@ -61,6 +61,8 @@ new File('d:/progs/groovy/lib').eachFile {file->
 }
 */
 
+//drugi komentarz
+
 def strings=[]
 list.each {
 	strings.add JsonOutput.toJson(it)
