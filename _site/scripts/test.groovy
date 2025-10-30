@@ -7,7 +7,7 @@ import static groovyx.net.http.Method.DELETE
 import static groovyx.net.http.ContentType.URLENC
 import static groovyx.net.http.ContentType.JSON
 import groovy.json.*;
-
+ // komentarz
 
 // @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.5.2')
 
